@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0px
+}
+
+#d1 {
+  height: 400px;
+  width: 50%;
+  overflow: auto; 
+  float: left;
+  border: 1px solid blue;
+}
+
+#d2 {
+  height: 400px;
+  width: 50%;
+  overflow: auto; 
+	float: left;
+  border: 1px solid blue;
+
+  overflow-y:hidden
+}
